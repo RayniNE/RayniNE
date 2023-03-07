@@ -5,11 +5,13 @@
 
 ## Hello, im Rayni Nuñez Espino, a software developer from the Dominican Republic who loves learning new technologies and going against a good challenge
 
-- Currently working for Tredium Solutions
-- Fullstack Developer
-- Loves playing sports and doing exercise
-- Loves reading
-- Loves science 
+- ✨ Currently working for Tredium Solutions
+-  💻 Fullstack Developer
+- ⚡ Loves playing sports and doing exercise
+-  🌱 Loves reading and learning
+-  🔭  Loves science 
+
+![](https://visitor-badge.glitch.me/badge?page_id=RayniNE.RayniNE)
 
 <br>
 
